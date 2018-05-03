@@ -18,4 +18,11 @@ run libraries produced by the compiler:
 
 
 ## Commit 
-🎉 First Commit 
+icons: https://gist.github.com/rxaviers/7360908 <br>
+
+🎉 First Commit <br> 
+👮 :cop:	
+
+## .gitattributes file:
+    * linguist-vendored
+    *.js linguist-vendored=false
