@@ -4,6 +4,9 @@
 * Testing prog: Java hello world 
 * Testing prog: Kotlin hello world / Bot
 * test jupyter ... next colab! 
+    * Colab from github: ```...$ kotlinc hello.kt -d hello.jar```
+* Elastic Search - java - python - SAP 
+
 
 ## kotlin -> JVM 
 https://www.komunumo.org/ <br>
