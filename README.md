@@ -8,6 +8,17 @@
 * Elastic Search - java - python - SAP 
 
 
+## Javatools 
+installation using: 
+* kotlin: https://kotlinlang.org/docs/tutorials/command-line.html
+* SDKMAN: (sdk) http://sdkman.io/
+    * multiple java versions! 
+
+
+## Elasticsearch: 
+* run: elasticsearch 
+* http://127.0.0.1:9200/ 
+
 ## kotlin -> JVM 
 https://www.komunumo.org/ <br>
 backend (server) https://github.com/friedhof/komunumo-backend<br>
