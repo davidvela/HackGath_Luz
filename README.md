@@ -29,7 +29,7 @@ icons: https://gist.github.com/rxaviers/7360908 <br>
 🎉 First Commit <br> 
 👮 :cop: pwd
 
-shortcut mac: command + control + space 
+emoticons shortcut mac: command + control + space 
 🤪😬😬😬😬😬
 
 
