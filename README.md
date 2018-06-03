@@ -47,3 +47,5 @@ emoticons shortcut mac: command + control + space
 ## .gitattributes file:
     * linguist-vendored
     *.js linguist-vendored=false
+
+on-going 
