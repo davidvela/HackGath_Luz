@@ -6,7 +6,14 @@
 * test jupyter ... next colab! 
     * Colab from github: ```...$ kotlinc hello.kt -d hello.jar```
 * Elastic Search - java - python - SAP 
+* TIC TAC TOE - RL 
 
+<br><br><br>
+
+## TTT LR 
+
+
+<br><br><br>
 
 ## Javatools 
 installation using: 
