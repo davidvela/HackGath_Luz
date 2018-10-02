@@ -10,6 +10,15 @@
 
 <br><br><br>
 
+# visits: 
+   * 18.May - kotlin, elasticsearch,  
+   * 18.June - tf - RL 
+   * 18August - tf - RL 
+   * 18.September - Tic tac toe -- gym  (openai)
+   * October ---- 
+
+<br><br><br>
+
 ## TTT LR 
 
 
